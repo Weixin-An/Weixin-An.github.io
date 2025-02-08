@@ -16,13 +16,13 @@ Federated Learning.
 
 Education
 ======
-2020.09 ~ Present: Hefei University of Technology, School of Computer and Information, Master's Degree
+2020.09 ~ Present: Xidian University, School of Artificial Intelligence, Doctor's Candidate [Advisor: 💁‍♂️Prof. Yuanyuan Liu👍]
 
 2024.10 ~ 2025.10: Nanyang Technological University, College of Computing and Data Science, Visiting Ph.D. (CSC) [Advisor: 💁‍♂️Prof. Han Yu👍]
 
 2016.09 ~ 2020.07: Xi'an University of Technology, School of Science, Bachelor's Degree
 
-Getting started
+Academic Papers
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
