@@ -9,6 +9,11 @@ redirect_from:
 
 I am currently pursuing a Ph.D. degree at the [School of Artificial Intelligence](https://sai.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/), where I began my program in the fall of 2020. I am fortunate to be under the supervision of [Yuanyuan Liu](https://web.xidian.edu.cn/yyliu/paper.html). I have obtained a bachelor's degree in Computer Science and Technology from the [School of Science](https://lxy.xaut.edu.cn/), [Xi'an University of Technology](https://www.xaut.edu.cn/) in June 2020. I’m a visiting PhD in the College of Computing and Data Science at [Nanyang Technological University](https://www.ntu.edu.sg/), under the supervision of [Prof. Han Yu](https://federated-learning.org/han.yu/).
 
+**My research interests include: **
+Optimization
+Privacy Protection
+Federated Learning
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
