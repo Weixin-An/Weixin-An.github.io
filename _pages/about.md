@@ -9,10 +9,10 @@ redirect_from:
 
 I am currently pursuing a Ph.D. degree at the [School of Artificial Intelligence](https://sai.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/), where I began my program in the fall of 2020. I am fortunate to be under the supervision of [Yuanyuan Liu](https://web.xidian.edu.cn/yyliu/paper.html). I have obtained a bachelor's degree in Computer Science and Technology from the [School of Science](https://lxy.xaut.edu.cn/), [Xi'an University of Technology](https://www.xaut.edu.cn/) in June 2020. I’m a visiting PhD in the College of Computing and Data Science at [Nanyang Technological University](https://www.ntu.edu.sg/), under the supervision of [Prof. Han Yu](https://federated-learning.org/han.yu/).
 
-**My research interests include: **
-Optimization
-Privacy Protection
-Federated Learning
+**My research interests include:**
+Optimization; 
+Privacy Protection; 
+Federated Learning. 
 
 A data-driven personal website
 ======
